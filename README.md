@@ -102,7 +102,7 @@ DIVIDE([Attrition Count], [Total Employees], 0)
 
 ## 📁 Files Included
 
-- HR_Analytics_Dashboard.pbix – Power BI dashboard file  
+- HR_Analytics_Dashboard.pbix –( https://github.com/SAKhan2121/-HR-Analytics-Dashboard-Employee-Attrition-Analysis/blob/main/3rd%20HR%20DASHBOARD.pbix) Power BI dashboard file  
 - Dashboard_Screenshot.png – Dashboard preview  
 - README.md – Project documentation  
 
